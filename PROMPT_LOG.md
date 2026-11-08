@@ -92,6 +92,30 @@ also remove now the others that is not related to my portfolio, without affectin
 
 ## 2026-11-07
 
+clone https://github.com/pacamorobert/pacamo-portfolio.git here
+
+---
+
+## 2026-11-07
+
+setup laravel boost
+
+---
+
+## 2026-11-07
+
+i meant to insert # Execution Discipline rules with specific numbered directives governing all current rules
+
+---
+
+## 2026-11-07
+
+serve locally
+
+---
+
+## 2026-11-07
+
 project final check then deploy locally
 
 ---
@@ -110,9 +134,44 @@ load in newly pasted major design revision for the portfolio.
 
 ## 2026-11-07
 
+go
+
+---
+
+## 2026-11-07
+
 remove the CC BY NC ND 4.0
 
 ---
+
+## 2026-11-08
+
+check my current github identity ensure its all set to https://github.com/Robert91821 including user.email etc
+
+---
+
+## 2026-11-08
+
+gh reauth to robert and make a test repo to robert git
+
+---
+
+## 2026-11-08
+
+make a repo for testing
+
+---
+
+## 2026-11-08
+
+just a repo with random file
+
+---
+
+## 2026-11-08
+
+include the following in the prompt log and rewrite all prompts in the said prompt
+
 ---
 
 ## 2026-11-08
