@@ -113,3 +113,8 @@ load in newly pasted major design revision for the portfolio.
 remove the CC BY NC ND 4.0
 
 ---
+---
+
+## 2026-11-08
+
+push portfolio to github repo only the necessary files plus the user-prompts.md
